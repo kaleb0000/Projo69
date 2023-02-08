@@ -1,0 +1,11 @@
+#vridu{
+    width: 500px;
+    height:500px;
+    border: none;
+}
+.navabar
+{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
